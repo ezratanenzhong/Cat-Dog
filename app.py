@@ -9,6 +9,7 @@ Original file is located at
 
 import tensorflow as tf
 from tensorflow import keras
+import typing_extensions
 from typing_extensions import Final
 
 
