@@ -9,7 +9,7 @@ Original file is located at
 
 import tensorflow as tf
 from tensorflow import keras
-import typing_extensions
+from typing_extensions import Final
 
 
 loaded_model = tf.keras.models.load_model('eff_model.h5')
